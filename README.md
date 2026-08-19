@@ -40,3 +40,25 @@ Adventure Works Cycles is a fictional multinational manufacturer of metal and co
 - **Professional** and **Skilled Manual** customer occupations drive the largest share of sales
 
 ## Repository Structure
+
+```
+adventure-works-sales-analysis/
+├── README.md
+├── data/
+│   └── adventure-works-analysis.xlsx
+├── sql/
+│   └── analysis-queries.sql
+├── powerbi/
+│   └── adventure-works-dashboard.pbix
+└── images/
+    ├── powerbi-dashboard.png
+    └── excel-dashboard.png
+```
+
+## Dataset
+This project uses the publicly available **Adventure Works** sample dataset, widely used for practicing SQL, Excel, and Power BI analytics.
+
+## About Me
+**Anson Aron Fernandez** — Data Analyst | SQL, Excel, Power BI
+📍 Bengaluru, Karnataka
+📧 ansonfernandez003@gmail.com
